@@ -9,6 +9,9 @@
 import UIKit
 
 class ViewController: UIViewController {
+    @IBOutlet weak var Penis: UITextField!
+    @IBOutlet weak var Penis2: UILabel!
+    @IBOutlet weak var Penis3: UIButton!
 
 }
 
